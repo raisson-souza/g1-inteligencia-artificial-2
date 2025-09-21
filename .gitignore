@@ -1,0 +1,5 @@
+venv
+datasets/global.csv
+datasets/sistemas_de_informacao.csv
+datasets/sistemas_de_informacao_disciplines_grouped.csv
+__pycache__
