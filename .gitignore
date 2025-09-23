@@ -2,4 +2,6 @@ venv
 datasets/global.csv
 datasets/sistemas_de_informacao.csv
 datasets/sistemas_de_informacao_disciplines_grouped.csv
+lime/*.html
+!lime/lime_example.html
 __pycache__
